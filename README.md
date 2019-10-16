@@ -2,7 +2,7 @@
 
 P.S. : Most of the Repository are Private. 
 
-Software Stack Repository [Private](https://github.com/AGV-IIT-KGP/mahindra_e20)
+Software Stack Repository : https://github.com/AGV-IIT-KGP/mahindra_e20 (Private) 
 
 Links to Module Specific Repo : 
 
